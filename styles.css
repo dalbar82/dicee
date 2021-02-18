@@ -1,0 +1,41 @@
+body {
+  background-color: #3a3f48;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #4ECCA3;
+  text-shadow: 2px 3px 2px black;
+  font-family: 'Lobster', cursive;
+}
+
+h3 {
+
+  color: #4ECCA3;
+  font-family: fantasy;
+}
+.click {
+  text-decoration: underline;
+  color: white;
+}
+.click:hover {
+  color: #4ECCA3;
+  cursor: pointer;
+}
+.container {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  height: 200px;
+}
+.players {
+  margin: 0 50px;
+  text-align: center;
+}
+.huge {
+  font-size: 10rem;
+}
+
+#result:hover {
+  cursor: pointer;
+}
